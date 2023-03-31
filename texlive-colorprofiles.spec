@@ -1,6 +1,6 @@
 Name:		texlive-colorprofiles
 Version:	49086
-Release:	1
+Release:	2
 Summary:	Collection of free ICC profiles
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/colorprofiles
