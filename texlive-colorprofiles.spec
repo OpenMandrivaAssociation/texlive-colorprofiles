@@ -3,7 +3,7 @@ Version:	49086
 Release:	2
 Summary:	Collection of free ICC profiles
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/colorprofiles
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/colorprofiles
 License:	other-free
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/colorprofiles.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/colorprofiles.doc.r%{version}.tar.xz
